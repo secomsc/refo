@@ -7,6 +7,10 @@
   }
 }
 
+.lead {
+  font-weight: 500!important;
+}
+
 .bg-primary .bg-gradient {
   background-color: #1155CC!important;
 }
@@ -21,7 +25,12 @@
   text-align: center;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Titillium Web', sans-serif;
+}
+
 branco {
+  font-family: 'Titillium Web', sans-serif;
   font-size: 5em;
   color: #FFFFFF;
   font-weight: bold;
@@ -40,6 +49,7 @@ branco {
 
 
 azul {
+  font-family: 'Titillium Web', sans-serif;
   font-size: 5em;
   color: #1155CC;
   font-weight: bold;
