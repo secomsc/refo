@@ -7,6 +7,17 @@
   }
 }
 
+transparencia {
+  font-size: 2em;
+  color: #222222;
+  line-height: 1em;
+}
+
+respiradores {
+  font-size: 0.8em.
+  color: #444444;
+}
+
 .lead, .lead-black {
   font-weight: 500!important;
 }
@@ -18,6 +29,12 @@
 .negrito {
   font-weight: bold;
   font-color: #1155cc;
+}
+
+pequeno {
+  font-size: 0.6em;
+  font-weight: lighter;
+  line-height: 0.6em;
 }
 
 .dinheiros {
